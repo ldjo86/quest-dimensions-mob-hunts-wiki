@@ -1,31 +1,38 @@
-# Quest Dimensions & Mob Hunts — Fonctionnement
+# Quest Dimensions & Mob Hunts — Guide pratique
 
-Datapack de quêtes de chasse avec paliers et récompenses par dimension et famille de créatures.
+Un système de quêtes de chasse pour Minecraft : tes combats alimentent plusieurs catégories, dimensions et paliers de progression.
 
-### 1. Quêtes Overworld, Nether, End, Bosses, Zombies, Undead, Arthropods, Animals et Total Hostiles
+> Version concernée : quest_multi_v3_3.zip (annoncé). Les renseignements non vérifiés dans le jeu sont signalés.
 
-Quêtes Overworld, Nether, End, Bosses, Zombies, Undead, Arthropods, Animals et Total Hostiles.
+## 1. Lancer une nouvelle série de quêtes
 
-### 2. Une élimination peut progresser dans plusieurs quêtes à la fois
+Installe le ZIP du datapack dans ton monde et vérifie qu'il apparaît avec /datapack list. Commence par une zone facile à sécuriser, puis diversifie les catégories de créatures vaincues.
 
-Une élimination peut progresser dans plusieurs quêtes à la fois.
+## 2. Cumuler les objectifs
 
-### 3. Récompenses d'XP, d'objets rares et, à certains paliers, d'œufs et spawners
+Selon l'auteur, un zombie tué dans l'Overworld peut faire progresser à la fois les catégories Zombies, Undead et Overworld. Cela encourage l'exploration sans exiger des sessions séparées pour chaque catégorie.
 
-Récompenses d'XP, d'objets rares et, à certains paliers, d'œufs et spawners.
+## 3. Changer de dimension et viser les paliers
 
-### 4. Progression réinitialisée à la mort
+Nether, End et boss ajoutent d'autres défis. Les récompenses annoncées incluent de l'expérience, des ressources, des objets rares et, pour certains paliers, des œufs d'apparition ou des spawners.
 
-Progression réinitialisée à la mort.
+## 4. Comprendre la règle de mort
 
-### 5. Quelques recettes complémentaires sont annoncées autour de la crème de magma
+La description officielle indique que la progression est remise à zéro lorsqu'un joueur meurt. Conserve un équipement de secours et évite les combats trop risqués si tu veux poursuivre une longue série de quêtes.
 
-Quelques recettes complémentaires sont annoncées autour de la crème de magma.
+## Conseils pour démarrer
 
-## Points à contrôler
+1. Télécharge le **ZIP correspondant à ta version Minecraft** depuis CurseForge.
+2. Dépose-le dans le dossier `datapacks/` de ton monde.
+3. Recharge avec `/reload` ou redémarre le serveur, puis contrôle l'installation avec `/datapack list`.
+4. Fais tes essais sur une sauvegarde de test avant de modifier ton monde principal.
 
-Source : description officielle CurseForge. ZIP v3.3 non trouvé localement ; nombres de paliers et crafts exacts non vérifiés.
+**Exemple :** commencer par les catégories de l'Overworld, puis préparer une expédition au Nether après avoir sécurisé son matériel.
 
-Les seuils, recettes, identifiants et comportements non explicitement mentionnés ne sont pas inventés.
+## Fiabilité
 
-[Retour au sommaire](../README.md)
+Aucune archive quest_multi_v3_3.zip exacte n'a été retrouvée dans les emplacements locaux inspectés : seuils, commandes et recettes sont des informations issues de CurseForge, non d'un audit complet du ZIP.
+
+Aucune apparence de mob personnalisée n'est publiée. Les identifiants et valeurs non vérifiés sont volontairement omis.
+
+[Accueil du wiki](../README.md) · [CurseForge](https://www.curseforge.com/minecraft/data-packs/quest-dimensions-mob-hunts)
