@@ -53,8 +53,6 @@ La description officielle indique que la progression est remise à zéro lorsqu'
 | [❓ Questions fréquentes](docs/FAQ.md) | Règles à connaître |
 | [🔎 Sources et vérification](docs/Sources-et-verification.md) | Précisions sur les fonctionnalités contrôlées |
 | [🇬🇧 English overview](docs/English-Overview.md) | Présentation en anglais |
-| [📦 Atlas technique](docs/Atlas-technique.md) | Fichiers présents dans les archives, lorsqu'elles ont été examinées |
-| [🧪 Analyse des fonctions](docs/Fonctions-analysees.md) | Éléments techniques, sans présumer du fonctionnement en jeu |
 
 ## Niveau de vérification
 
